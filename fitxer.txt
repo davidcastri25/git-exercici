@@ -1,0 +1,1 @@
+Aquesta línia de text s'ha escrit des de la branca "branch1".
